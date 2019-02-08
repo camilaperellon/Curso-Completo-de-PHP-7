@@ -1,0 +1,8 @@
+Defense in Depth ou Defesa em Camadas
+
+Se resume em duas partes: a física e a do desenvolvedor.
+
+Física - A empresa que irá hospedar o site
+
+Desenvolvedor - Arquitetar várias camadas de segurança para o usuário, se ele conseguir passar por um, tem outro.
+Uma forma de deixar o site e o usuário mais seguro.
